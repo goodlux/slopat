@@ -3,6 +3,12 @@ data/
 output/
 .slopat/
 
+# Node.js / Frontend
+node_modules/
+.svelte-kit/
+build/
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
