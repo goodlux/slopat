@@ -1,3 +1,8 @@
+# slop.at specific
+data/
+output/
+.slopat/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
